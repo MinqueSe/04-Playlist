@@ -496,3 +496,15 @@ Las raíces
 Del amor
 Donde estaban
 Quedarán
+
+<-- Paleta de Colores 1 -->
+2F8F9D
+3BACB6
+82DBD8
+B3E8E5
+
+<-- Paleta de Colores 2 -->
+DFF4F3
+DDE7F2
+B9BBDF
+878ECD
